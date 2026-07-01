@@ -2,27 +2,27 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Reading logs 
+title: Reading logs
 first_name: Warren
-middle_name: 
+middle_name:
 last_name: Will
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: > 
+description: >
   Reading like Eating
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: 
+keywords:
 lang: en
-icon: ⚛️ 
+icon: ⚛️
 
 url: https://lehoangvinh0803-spec.github.io # the base hostname & protocol for your site
 baseurl: /
-last_updated: true 
+last_updated: true
 impressum_path:
-back_to_top: true 
+back_to_top: true
 
 # -----------------------------------------------------------------------------
 # Theme
